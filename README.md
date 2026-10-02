@@ -122,8 +122,28 @@ The analysis provides a foundation for:
 - `Accident_Data_Analysis.ipynb` — Python notebook containing data cleaning, preprocessing, EDA, visualizations, and findings.
 - `cleaned_Accident.csv` — Cleaned dataset exported by the notebook, if included in the repository.
 
-## 👩‍💻 Author
+  
 
-**Prakruthi**
+## 🗄️ SQL Analysis
 
-Aspiring Data Analyst | Python | SQL | Power BI
+SQL was used to explore the road accident dataset, summarize accident records, and answer analytical questions.
+
+### SQL Concepts Used
+- `SELECT` and `DISTINCT` — Retrieve and identify unique values.
+- `WHERE` — Filter accident records based on specific conditions.
+- `GROUP BY` — Aggregate accident data across different categories.
+- Aggregate Functions — Use `COUNT()`, `SUM()`, `AVG()`, `MIN()`, and `MAX()` to summarize data.
+- `ORDER BY` — Sort results to identify the highest and lowest values.
+- `HAVING` — Filter grouped results based on aggregate conditions.
+- `LIMIT` — Retrieve a specified number of records.
+
+### Analysis Performed
+- Analyzed accident counts across different severity categories.
+- Calculated the total number of casualties and vehicles involved in accidents.
+- Examined accident distributions across road types and weather conditions.
+- Compared accident records across urban and rural areas.
+- Identified road and environmental categories with high accident counts.
+- Used filtering, grouping, and sorting to answer accident-related business questions.
+
+### Objective
+To strengthen SQL querying skills and extract meaningful insights from road accident data.
